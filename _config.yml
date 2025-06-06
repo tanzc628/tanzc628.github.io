@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "-Pkuhub's site"
+title                    : "-Tanzc628's site"
 title_separator          : "-"
-name                     : &name "xker "
-description              : &description "111"
-url                      : https://pkuhub-dev.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "smser "
+description              : &description "标个记先"
+url                      : https://tanzc628.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pkuhub-dev/pkuhub-dev.github.io"
+repository               : "tanzc628/tanzc628.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light"# "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yourname"
+  name             : "Tanzc628"
   avatar           : "white.png"
   bio              : "Peking University"
   location         : "China Beijing"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pkuhub-dev"
+  github           : "tanzc628"
   google_plus      :
   keybase          :
   instagram        :
